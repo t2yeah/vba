@@ -2,10 +2,10 @@ Attribute VB_Name = "Module1"
 Option Explicit
 
 Sub m1()
-    Dim 行 As Long
+    Dim ﾂ行 As Long
     
-    For 行 = 1 To 10
-        Cells(行, 1) = 行 * 2
-    Next 行
+    For ﾂ行 = 1 To 15
+        Cells(ﾂ行, 1) = ﾂ行 * 2
+    Next ﾂ行
     
 End Sub
